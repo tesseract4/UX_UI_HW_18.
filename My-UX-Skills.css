@@ -1,0 +1,14 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+/* Header Styles */
+.flex-container {
+	display: flex;
+	flex-direction: row
+}
+
+div * {
+	width: 33% auto;
+}
+
+ <!--  My UX Skills section coded using CSS flex -->
